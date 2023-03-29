@@ -1,7 +1,6 @@
 {
   "name": "tritests",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "index.js",
   "directories": {
@@ -20,5 +19,6 @@
   },
   "devDependencies": {
     "jest": "^29.5.0"
-  }
+  },
+  "description": ""
 }
